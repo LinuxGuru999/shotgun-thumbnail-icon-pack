@@ -1,0 +1,23 @@
+{
+  "overview": "Thumbnail Icon Pack is a set of 20 clean SVG icons designed for thumbnails and slides. It helps creators add consistent visual accents to YouTube thumbnails, presentation slides, and social graphics without redrawing assets. Files are delivered as editable SVG source with a preview sheet for quick selection.",
+  "usecases": [
+    "You need matching icons for a YouTube thumbnail series and want consistent stroke weight across uploads.",
+    "You are building a slide deck and need simple icons to label sections without cluttering text.",
+    "You are making Instagram carousel graphics and want reusable SVG icons that scale cleanly."
+  ],
+  "howto": [
+    "Download the pack and unzip the folder.",
+    "Open the preview sheet to choose an icon by name or visual.",
+    "Drag the SVG into your design tool or slides and adjust color or size as needed."
+  ],
+  "faq": [
+    {
+      "q": "Are these raster images or editable vectors?",
+      "a": "They are SVG source files, so you can scale and recolor them in apps that support SVG."
+    },
+    {
+      "q": "Will they work in every design program?",
+      "a": "They work best in software that imports SVG directly; some tools may require conversion or manual adjustment."
+    }
+  ]
+}
